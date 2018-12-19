@@ -7,9 +7,9 @@ This project is an example React app using the following technologies:
 - Semantic UI React
 
 ## Screenshots
-
-![browse page](https://github.com/eliashussary/react-moviedb-app-example/docs/final-mock-1.png "Browse Page")
-![detail page](https://github.com/eliashussary/react-moviedb-app-example/docs/final-mock-2.png "Detail Page")
+Browse Page | Detail Page 
+:---: | :---:
+![browse page](https://raw.githubusercontent.com/eliashussary/react-moviedb-app-example/master/docs/final-mock-1.png "Browse Page") | ![detail page](https://raw.githubusercontent.com/eliashussary/react-moviedb-app-example/master/docs/final-mock-2.png "Detail Page")
 
 ## Installation
 
@@ -36,4 +36,4 @@ Note: This app is meant for mobile usage only, for best results;
 2. toggle responsive mode,
 3. select a mobile device.
 
-![dev tools guide](https://github.com/eliashussary/react-moviedb-app-example/docs/dev-tools-config.png "Dev Tools Config")
+![dev tools guide](https://raw.githubusercontent.com/eliashussary/react-moviedb-app-example/master/docs/dev-tools-config.png "Dev Tools Config")
